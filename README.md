@@ -21,11 +21,6 @@ Colors:
 🧬 Bioinformatics Engineer | 🖥 Computational Biologist | 🔬 Data Scientist
 </h3>
 
-
-
-
-### 🧬 Bioinformatics Engineer | 🖥️ Computational Biologist | 🔬 Data Scientist
-
 <br>
 
 <!-- BIO SECTION -->
