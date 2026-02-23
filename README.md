@@ -20,12 +20,6 @@
 ---
 
 <p align="center">
-  <b>🧬 Bridging biology and computation through engineered genomic systems.</b>
-</p>
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/github_dna_banner.png" width="100%" />
 </p>
 
@@ -35,12 +29,16 @@
 
 <img src="github_banner.png" align="right" width="320px"/>
 
+<br>
+
 - 🚀 Engineer scalable **Nextflow-based NGS pipelines**
 - 🧬 Perform end-to-end **RNA-seq & variant discovery workflows**
 - 📦 Develop containerized, reproducible environments (**Docker + Linux**)
 - 🗂 Architect structured **genomic reference data systems**
 - 🧠 Apply machine learning for predictive modeling in **functional genomics**
 - ⚙️ Build robust APIs powering backend bioinformatics applications
+<br>
+<br>
 
 ---
 
