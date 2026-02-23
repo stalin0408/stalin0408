@@ -10,20 +10,21 @@
   <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
 </p>
 
-### NGS Data Analysis | OMICS Data handeling | De-novo Genome Assembly | ML Implementation
+### 🧬 NGS Data Analysis | Multi-Omics Integration | De Novo Genome Assembly | Machine Learning in Genomics
+Bridging biology and computation through engineered genomic systems.
 
-I design and build scalable computational pipelines for large-scale biological data.  
-My work focuses on translating genomic complexity into reproducible, production-ready systems.
+I specialize in large-scale NGS analysis, multi-omics data integration, de novo genome assembly workflows, and machine learning applications that transform high-dimensional biological data into actionable insights.
 
 ---
 
-## 🧬 What I Do
+🧬 What I Do
 
-- Build **Nextflow-based NGS pipelines**
-- Perform **RNA-seq & variant analysis**
-- Develop **containerized workflows (Docker, Linux)**
-- Design structured **genomic reference data systems**
-- Apply **machine learning in biological data modeling**
+🚀 Engineer scalable Nextflow-based NGS pipelines
+🧬 Perform end-to-end RNA-seq & variant discovery workflows
+📦 Develop containerized, reproducible environments (Docker + Linux)
+🗂 Architect structured genomic reference data systems
+🧠 Apply machine learning for predictive modeling in functional genomics
+⚙️ Build robust APIs powering backend bioinformatics applications
 
 ---
 
