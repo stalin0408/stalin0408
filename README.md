@@ -17,18 +17,22 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Genomics-F5F5F5?style=for-the-badge" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&section=header&text=Bridging%20biology%20and%20computation%20through%20engineered%20genomic%20systems.&fontSize=20&fontColor=ADFF2F&font=Playfair%20Display" />
+  <b>🧬 Bridging biology and computation through engineered genomic systems.</b>
 </p>
 
-🧬 What I Do
+---
 
-🚀 Engineer scalable Nextflow-based NGS pipelines\
-🧬 Perform end-to-end RNA-seq & variant discovery workflows\
-📦 Develop containerized, reproducible environments (Docker + Linux)\
-🗂 Architect structured genomic reference data systems\
-🧠 Apply machine learning for predictive modeling in functional genomics\
-⚙️ Build robust APIs powering backend bioinformatics applications\
+## 🎯 What I Do
+
+- 🚀 Engineer scalable **Nextflow-based NGS pipelines**
+- 🧬 Perform end-to-end **RNA-seq & variant discovery workflows**
+- 📦 Develop containerized, reproducible environments (**Docker + Linux**)
+- 🗂 Architect structured **genomic reference data systems**
+- 🧠 Apply machine learning for predictive modeling in **functional genomics**
+- ⚙️ Build robust APIs powering backend bioinformatics applications
 
 ---
 
@@ -101,8 +105,8 @@ Built for scalable biological data access and downstream pipeline integration.
 
 ## 📫 Connect
 
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/stalin-dany-shaji/ 
+- Email: stalindanyshaji@gmail.com
 
 ---
 
