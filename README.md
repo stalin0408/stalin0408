@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/stalin0408/stalin0408/blob/main/github_dnasrtipImg.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
 </p>
 
 ### Bioinformatics Engineer | Computational Biologist | Data Systems Builder
