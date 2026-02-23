@@ -10,7 +10,12 @@
   <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
 </p>
 
-### 🧬 NGS Data Analysis | Multi-Omics Integration | De Novo Genome Assembly | Machine Learning in Genomics
+<p align="center">
+  <img src="https://img.shields.io/badge/NGS-Data%20Analysis-F5F5F5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Omics-Integration-F5F5F5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/De%20Novo-Genome%20Assembly-F5F5F5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Genomics-F5F5F5?style=for-the-badge" />
+</p>
 Bridging biology and computation through engineered genomic systems.
 
 I specialize in large-scale NGS analysis, multi-omics data integration, de novo genome assembly workflows, and machine learning applications that transform high-dimensional biological data into actionable insights.
@@ -19,12 +24,12 @@ I specialize in large-scale NGS analysis, multi-omics data integration, de novo 
 
 🧬 What I Do
 
-🚀 Engineer scalable Nextflow-based NGS pipelines
-🧬 Perform end-to-end RNA-seq & variant discovery workflows
-📦 Develop containerized, reproducible environments (Docker + Linux)
-🗂 Architect structured genomic reference data systems
-🧠 Apply machine learning for predictive modeling in functional genomics
-⚙️ Build robust APIs powering backend bioinformatics applications
+🚀 Engineer scalable Nextflow-based NGS pipelines\
+🧬 Perform end-to-end RNA-seq & variant discovery workflows\
+📦 Develop containerized, reproducible environments (Docker + Linux)\
+🗂 Architect structured genomic reference data systems\
+🧠 Apply machine learning for predictive modeling in functional genomics\
+⚙️ Build robust APIs powering backend bioinformatics applications\
 
 ---
 
