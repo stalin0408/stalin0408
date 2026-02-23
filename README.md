@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bioinformatics+Engineer;NGS+Pipeline+Developer;Genomic+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bioinformatics+Engineer;NGS+Pipeline+Developer;Genomic+Systems+Builder" />
 </p>
 
 <p align="center">
