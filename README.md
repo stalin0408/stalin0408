@@ -71,11 +71,11 @@ Built for scalable biological data access and downstream pipeline integration.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StalinDanyShaji&show_icons=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=2ea44f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stalin0408&show_icons=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=2ea44f&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StalinDanyShaji&hide_border=true&background=000000&ring=2ea44f&fire=2ea44f&currStreakLabel=58a6ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stalin0408&hide_border=true&background=000000&ring=2ea44f&fire=2ea44f&currStreakLabel=58a6ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" />
 </p>
 
 ---
