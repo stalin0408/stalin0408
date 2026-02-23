@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/github_dna_banner.png" width="100%" />
 </p>
 
 ---
