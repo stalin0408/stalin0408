@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bioinformatics+Engineer;NGS+Pipeline+Developer;Genomic+Systems+Builder" />
 </p>
 
-<h1 align="center" style="color:#00F7FF;">
-  🚀 Stalin Dany Shaji
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=120&section=header&text=Hello%20I'm%20Stalin%20Dany%20Shaji&fontSize=40&fontColor=191970&font=Montserrat" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/stalin0408/stalin0408/blob/main/github_dnasrtipImg.jpg" width="100%" />
+</p>
 
 ### Bioinformatics Engineer | Computational Biologist | Data Systems Builder
 
