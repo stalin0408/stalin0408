@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BIOINFORMATICS+ENGINEER;COMPUTATIONAL+BIOLOGIST;GENOMIC+DATA+ENGINEER" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2F4F4F&height=120&section=header&text=Hello%20I'm%20Stalin%20Dany%20Shaji&fontSize=40&fontColor=D3D3D3&font=Montserrat" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=stalin0408&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2F4F4F&height=120&section=header&text=Hello%20I'm%20Stalin%20Dany%20Shaji&fontSize=40&fontColor=D3D3D3&font=Montserrat" />
 </p>
 
 <p align="center">
@@ -21,6 +21,12 @@
 
 <p align="center">
   <b>🧬 Bridging biology and computation through engineered genomic systems.</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
 </p>
 
 ---
