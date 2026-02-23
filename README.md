@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bioinformatics+Engineer;NGS+Pipeline+Developer;Genomic+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BIOINFORMATICS+ENGINEER;COMPUTATIONAL+BIOLOGIST;GENOMIC+DATA+ENGINEER" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=120&section=header&text=Hello%20I'm%20Stalin%20Dany%20Shaji&fontSize=40&fontColor=191970&font=Montserrat" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2F4F4F&height=120&section=header&text=Hello%20I'm%20Stalin%20Dany%20Shaji&fontSize=40&fontColor=D3D3D3&font=Montserrat" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/stalin0408/stalin0408/main/githup_dnasrtipImg.jpg" width="100%" />
 </p>
 
-### Bioinformatics Engineer | Computational Biologist | Data Systems Builder
+### NGS Data Analysis | OMICS Data handeling | De-novo Genome Assembly | ML Implementation
 
 I design and build scalable computational pipelines for large-scale biological data.  
 My work focuses on translating genomic complexity into reproducible, production-ready systems.
