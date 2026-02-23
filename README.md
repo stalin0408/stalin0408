@@ -16,11 +16,10 @@
   <img src="https://img.shields.io/badge/De%20Novo-Genome%20Assembly-F5F5F5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Genomics-F5F5F5?style=for-the-badge" />
 </p>
-Bridging biology and computation through engineered genomic systems.
 
-I specialize in large-scale NGS analysis, multi-omics data integration, de novo genome assembly workflows, and machine learning applications that transform high-dimensional biological data into actionable insights.
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&section=header&text=Bridging%20biology%20and%20computation%20through%20engineered%20genomic%20systems.&fontSize=20&fontColor=ADFF2F&font=Playfair%20Display" />
+</p>
 
 🧬 What I Do
 
