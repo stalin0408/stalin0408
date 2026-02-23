@@ -33,6 +33,8 @@
 
 ## 🎯 What I Do
 
+<img src="github_banner.png" align="right" width="320px"/>
+
 - 🚀 Engineer scalable **Nextflow-based NGS pipelines**
 - 🧬 Perform end-to-end **RNA-seq & variant discovery workflows**
 - 📦 Develop containerized, reproducible environments (**Docker + Linux**)
